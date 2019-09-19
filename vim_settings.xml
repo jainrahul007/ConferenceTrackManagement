@@ -34,8 +34,9 @@
         <mark key="'" line="114" column="3" />
       </file>
       <file name="$USER_HOME$/Downloads/ThoughtWorks-HTTP-Hunt-project-TW_GAME/ConferenceTrackManagement/src/main/java/com/trackmanagement/scheduler/ConferenceScheduler.java" timestamp="1568833118697">
-        <mark key="'" line="58" column="12" />
+        <mark key="'" line="59" column="12" />
       </file>
+      <file name="/SessionConfiguration.java" timestamp="1568911953302" />
       <file name="$USER_HOME$/Downloads/ThoughtWorks-HTTP-Hunt-project-TW_GAME/ConferenceTrackManagement/src/main/java/com/trackmanagement/scheduler/TrackCalcutor.java" timestamp="1568611082614">
         <mark key="[" line="5" column="0" />
       </file>
@@ -67,7 +68,7 @@
       <file name="$USER_HOME$/Downloads/ThoughtSworksAPp/src/main/java/OutputMessage.java" timestamp="1565289394062">
         <mark key="[" line="1" column="35" />
       </file>
-      <file name="$USER_HOME$/Downloads/ThoughtWorks-HTTP-Hunt-project-TW_GAME/ConferenceTrackManagement/src/main/java/com/trackmanagement/model/SessionConfiguration.java" timestamp="1568831779456" />
+      <file name="$USER_HOME$/Downloads/ThoughtWorks-HTTP-Hunt-project-TW_GAME/ConferenceTrackManagement/src/main/java/com/trackmanagement/model/SessionConfiguration.java" timestamp="1568911841666" />
       <file name="$USER_HOME$/IdeaProjects/AnimalDemo/src/com/assignment/model/com/assignment/demo/LangugeTranslator.java" timestamp="1551548923463">
         <mark key="[" line="0" column="43" />
       </file>
@@ -135,11 +136,8 @@
       <file name="$USER_HOME$/IdeaProjects/SprinDemo/src/org/rahul/springlearning/Point.java" timestamp="1533926785034">
         <mark key="[" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/ThoughtWorks-HTTP-Hunt-project-TW_GAME/ConferenceTrackManagement/src/main/java/com/trackmanagement/processor/InputReader.java" timestamp="1568824871029">
-        <mark key="'" line="26" column="29" />
-        <mark key="]" line="24" column="0" />
-      </file>
-      <file name="/fragment.java" timestamp="1568823519613">
+      <file name="$USER_HOME$/Downloads/ThoughtWorks-HTTP-Hunt-project-TW_GAME/ConferenceTrackManagement/src/main/java/com/trackmanagement/processor/InputReader.java" timestamp="1568911696323" />
+      <file name="/fragment.java" timestamp="1568912000903">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/AnimalDemo/test/com/assignment/model/DuckTest.java" timestamp="1551536078019">
