@@ -34,13 +34,13 @@
         <mark key="[" line="4" column="4" />
       </file>
       <file name="$USER_HOME$/Downloads/ThoughtWorks-HTTP-Hunt-project-TW_GAME/ConferenceTrackManagement/src/main/java/com/trackmanagement/scheduler/TrackCalculator.java" timestamp="1568745033583" />
-      <file name="$USER_HOME$/Downloads/ThoughtWorks-HTTP-Hunt-project-TW_GAME/ConferenceTrackManagement/src/main/java/com/trackmanagement/model/Track.java" timestamp="1569161319031">
-        <mark key="'" line="106" column="3" />
-        <mark key="[" line="13" column="4" />
+      <file name="$USER_HOME$/Downloads/ThoughtWorks-HTTP-Hunt-project-TW_GAME/ConferenceTrackManagement/src/main/java/com/trackmanagement/model/Track.java" timestamp="1569165901670">
+        <mark key="'" line="86" column="3" />
+        <mark key="[" line="31" column="44" />
       </file>
-      <file name="$USER_HOME$/Downloads/ThoughtWorks-HTTP-Hunt-project-TW_GAME/ConferenceTrackManagement/src/main/java/com/trackmanagement/scheduler/ConferenceScheduler.java" timestamp="1569161019292">
-        <mark key="'" line="55" column="12" />
-        <mark key="[" line="30" column="30" />
+      <file name="$USER_HOME$/Downloads/ThoughtWorks-HTTP-Hunt-project-TW_GAME/ConferenceTrackManagement/src/main/java/com/trackmanagement/scheduler/ConferenceScheduler.java" timestamp="1569164783990">
+        <mark key="'" line="39" column="12" />
+        <mark key="[" line="24" column="15" />
       </file>
       <file name="/SessionConfiguration.java" timestamp="1568911953302" />
       <file name="$USER_HOME$/Downloads/ThoughtWorks-HTTP-Hunt-project-TW_GAME/ConferenceTrackManagement/src/main/java/com/trackmanagement/scheduler/TrackCalcutor.java" timestamp="1568611082614">
@@ -64,7 +64,7 @@
       <file name="$USER_HOME$/Downloads/ThoughtWorks-HTTP-Hunt-project-TW_GAME/ConferenceTrackManagement/src/main/resoucres/talk-input.txt" timestamp="1568540165933">
         <mark key="[" line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/ThoughtWorks-HTTP-Hunt-project-TW_GAME/ConferenceTrackManagement/src/main/java/com/trackmanagement/util/Logger.java" timestamp="1568812625990" />
+      <file name="$USER_HOME$/Downloads/ThoughtWorks-HTTP-Hunt-project-TW_GAME/ConferenceTrackManagement/src/main/java/com/trackmanagement/util/Logger.java" timestamp="1569164662375" />
       <file name="$USER_HOME$/Downloads/ThoughtSworksAPp/src/main/java/OutputMessage.java" timestamp="1565289394062">
         <mark key="[" line="1" column="35" />
       </file>
@@ -112,7 +112,7 @@
       <file name="$USER_HOME$/Downloads/ThoughtSworksAPp/src/main/java/Tools.java" timestamp="1565463066750">
         <mark key="[" line="6" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1568871107710">
+      <file name="/Dummy.txt" timestamp="1569166113507">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
