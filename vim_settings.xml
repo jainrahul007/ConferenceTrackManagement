@@ -21,53 +21,57 @@
       <file name="$USER_HOME$/Downloads/ThoughtWorks-HTTP-Hunt-project-TW_GAME/ConferenceTrackManagement/src/test/java/com/trackmanagement/scheduler/TrackSchedulerTest.java" timestamp="1568795233712">
         <mark key="[" line="8" column="16" />
       </file>
-      <file name="$USER_HOME$/Downloads/ThoughtWorks-HTTP-Hunt-project-TW_GAME/ConferenceTrackManagement/src/test/java/com/trackmanagement/processor/InputReaderTest.java" timestamp="1569173440215">
-        <mark key="'" line="23" column="8" />
-        <mark key="[" line="24" column="69" />
-        <mark key="]" line="17" column="38" />
-        <mark key="." line="17" column="38" />
+      <file name="$USER_HOME$/Downloads/ThoughtWorks-HTTP-Hunt-project-TW_GAME/ConferenceTrackManagementNew/src/test/resources/talk-input.txt" timestamp="1569298343967">
+        <mark key="[" line="18" column="37" />
       </file>
       <file name="$USER_HOME$/Downloads/ThoughtWorks-HTTP-Hunt-project-TW_GAME/ConferenceTrackManagement/src/test/resources/talk-input.txt" timestamp="1569160923909">
         <mark key="[" line="8" column="9" />
       </file>
-      <file name="$USER_HOME$/Downloads/ThoughtWorks-HTTP-Hunt-project-TW_GAME/ConferenceTrackManagementNew/src/test/java/com/trackmanagement/processor/InputReaderTest.java" timestamp="1569212824792">
-        <mark key="[" line="25" column="67" />
+      <file name="$USER_HOME$/Downloads/ThoughtWorks-HTTP-Hunt-project-TW_GAME/ConferenceTrackManagementNew/src/test/java/com/trackmanagement/processor/InputReaderTest.java" timestamp="1569295517810">
+        <mark key="[" line="3" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/AnimalDemo/src/com/assignment/model/ClownFish.java" timestamp="1551540049080">
         <mark key="[" line="4" column="4" />
       </file>
-      <file name="$USER_HOME$/Downloads/ThoughtWorks-HTTP-Hunt-project-TW_GAME/ConferenceTrackManagement/src/main/java/com/trackmanagement/model/Track.java" timestamp="1569170482088">
-        <mark key="'" line="83" column="3" />
-        <mark key="[" line="31" column="44" />
-      </file>
-      <file name="$USER_HOME$/Downloads/ThoughtWorks-HTTP-Hunt-project-TW_GAME/ConferenceTrackManagementNew/src/main/java/com/trackmanagement/scheduler/ConferenceScheduler.java" timestamp="1569261083304">
-        <mark key="]" line="6" column="37" />
-        <mark key="^" line="6" column="37" />
-        <mark key="." line="6" column="37" />
-      </file>
-      <file name="$USER_HOME$/Downloads/ThoughtWorks-HTTP-Hunt-project-TW_GAME/ConferenceTrackManagement/src/main/java/com/trackmanagement/scheduler/ConferenceScheduler.java" timestamp="1569174182901">
-        <mark key="'" line="39" column="12" />
-        <mark key="[" line="24" column="15" />
+      <file name="$USER_HOME$/Downloads/ThoughtWorks-HTTP-Hunt-project-TW_GAME/ConferenceTrackManagementNew/src/main/java/com/trackmanagement/scheduler/ConferenceScheduler.java" timestamp="1569296875564">
+        <mark key="[" line="8" column="34" />
+        <mark key="]" line="7" column="37" />
+        <mark key="^" line="7" column="37" />
+        <mark key="." line="7" column="37" />
       </file>
       <file name="$USER_HOME$/Downloads/ThoughtWorks-HTTP-Hunt-project-TW_GAME/ConferenceTrackManagement/src/main/java/com/trackmanagement/scheduler/TrackCalcutor.java" timestamp="1568611082614">
         <mark key="[" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/ThoughtWorks-HTTP-Hunt-project-TW_GAME/ConferenceTrackManagementNew/src/test/java/com/trackmanagement/scheduler/ConferenceSchedulerTest.java" timestamp="1569261266170">
-        <mark key="[" line="33" column="59" />
-        <mark key="]" line="33" column="60" />
-        <mark key="." line="33" column="60" />
+      <file name="$USER_HOME$/Downloads/ThoughtWorks-HTTP-Hunt-project-TW_GAME/ConferenceTrackManagementNew/src/test/java/com/trackmanagement/scheduler/ConferenceSchedulerTest.java" timestamp="1569299179818">
+        <mark key="[" line="29" column="46" />
+        <mark key="]" line="29" column="46" />
+        <mark key="." line="29" column="46" />
       </file>
-      <file name="$USER_HOME$/Downloads/ThoughtWorks-HTTP-Hunt-project-TW_GAME/ConferenceTrackManagementNew/src/main/java/com/trackmanagement/model/Track.java" timestamp="1569211974207">
-        <mark key="[" line="71" column="29" />
+      <file name="$USER_HOME$/Downloads/ThoughtWorks-HTTP-Hunt-project-TW_GAME/ConferenceTrackManagementNew/src/test/resources/talk-input-empty.txt" timestamp="1569298354347">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/ThoughtWorks-HTTP-Hunt-project-TW_GAME/ConferenceTrackManagementNew/src/main/java/com/trackmanagement/model/Track.java" timestamp="1569295435150">
+        <mark key="[" line="57" column="8" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/AnimalDemo/src/com/assignment/model/Walkable.java" timestamp="1551542406471">
         <mark key="[" line="2" column="26" />
+      </file>
+      <file name="$USER_HOME$/Downloads/ThoughtWorks-HTTP-Hunt-project-TW_GAME/ConferenceTrackManagementNew/src/test/resources/more-talk-input.txt" timestamp="1569298334965">
+        <mark key="[" line="32" column="37" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="12" column="13" />
+      </file>
+      <file name="$USER_HOME$/Downloads/ThoughtWorks-HTTP-Hunt-project-TW_GAME/ConferenceTrackManagementNew/src/main/java/com/trackmanagement/exception/NoSchedulingException.java" timestamp="1569296782634">
+        <mark key="[" line="2" column="34" />
       </file>
       <file name="$USER_HOME$/Downloads/ThoughtSworksAPp/src/main/java/InputMessage2.java" timestamp="1565117450407">
         <mark key="[" line="21" column="19" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/AnimalDemo/test/com/assignment/model/CaterPillar.java" timestamp="1551536446262">
         <mark key="[" line="2" column="24" />
+      </file>
+      <file name="$USER_HOME$/Downloads/ThoughtWorks-HTTP-Hunt-project-TW_GAME/ConferenceTrackManagementNew/src/test/resources/talk-output.txt" timestamp="1569298359977">
+        <mark key="[" line="24" column="37" />
       </file>
       <file name="$USER_HOME$/Downloads/ThoughtSworksAPp/src/main/java/ToolsUsage.java" timestamp="1565242529055">
         <mark key="[" line="0" column="24" />
@@ -78,12 +82,16 @@
       <file name="$USER_HOME$/Downloads/ThoughtWorks-HTTP-Hunt-project-TW_GAME/ConferenceTrackManagement/src/main/resoucres/talk-input.txt" timestamp="1568540165933">
         <mark key="[" line="18" column="0" />
       </file>
+      <file name="$USER_HOME$/Downloads/ThoughtWorks-HTTP-Hunt-project-TW_GAME/ConferenceTrackManagementNew/src/main/java/com/trackmanagement/model/Session.java" timestamp="1569295410285">
+        <mark key="[" line="41" column="0" />
+      </file>
       <file name="$USER_HOME$/Downloads/ThoughtSworksAPp/src/main/java/OutputMessage.java" timestamp="1565289394062">
         <mark key="[" line="1" column="35" />
       </file>
-      <file name="$USER_HOME$/Downloads/ThoughtWorks-HTTP-Hunt-project-TW_GAME/ConferenceTrackManagementNew/src/main/java/com/trackmanagement/scheduler/ConferenceSchedulerApp.java" timestamp="1569211853750">
-        <mark key="[" line="13" column="18" />
+      <file name="$USER_HOME$/Downloads/ThoughtWorks-HTTP-Hunt-project-TW_GAME/ConferenceTrackManagementNew/src/main/java/com/trackmanagement/scheduler/ConferenceSchedulerApp.java" timestamp="1569296964107">
+        <mark key="[" line="25" column="18" />
       </file>
+      <file name="$USER_HOME$/Downloads/ThoughtWorks-HTTP-Hunt-project-TW_GAME/ConferenceTrackManagementNew/src/main/java/com/trackmanagement/util/Logger.java" timestamp="1569295283136" />
       <file name="$USER_HOME$/IdeaProjects/AnimalDemo/src/com/assignment/model/com/assignment/demo/LangugeTranslator.java" timestamp="1551548923463">
         <mark key="[" line="0" column="43" />
       </file>
@@ -95,6 +103,9 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/simplekafkatrial/src/test/java/com/rahul/kafkatest/KafkaProducerTest.java" timestamp="1530990507552">
         <mark key="[" line="33" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/ThoughtWorks-HTTP-Hunt-project-TW_GAME/ConferenceTrackManagementNew/src/main/java/com/trackmanagement/helper/SessionConfiguration.java" timestamp="1569295357331">
+        <mark key="[" line="12" column="4" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/Kafka-MultiThread-Java-Example/src/main/java/com/howtoprogram/kafka/com/learning/kafka/producer/ProducerClientTest.java" timestamp="1531578361091">
         <mark key="[" line="2" column="32" />
@@ -120,8 +131,8 @@
       <file name="$USER_HOME$/Downloads/ThoughtWorks-HTTP-Hunt-project-TW_GAME/ConferenceTrackManagement/src/main/java/com/trackmanagement/model/Talk.java" timestamp="1568824838368">
         <mark key="[" line="2" column="18" />
       </file>
-      <file name="$USER_HOME$/Downloads/ThoughtWorks-HTTP-Hunt-project-TW_GAME/ConferenceTrackManagementNew/src/main/java/com/trackmanagement/processor/InputReader.java" timestamp="1569257425934">
-        <mark key="[" line="34" column="51" />
+      <file name="$USER_HOME$/Downloads/ThoughtWorks-HTTP-Hunt-project-TW_GAME/ConferenceTrackManagementNew/src/main/java/com/trackmanagement/processor/InputReader.java" timestamp="1569295448711">
+        <mark key="[" line="16" column="3" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/AnimalDemo/test/com/assignment/model/FishTest.java" timestamp="1551536098466">
         <mark key="[" line="17" column="32" />
@@ -132,7 +143,10 @@
       <file name="$USER_HOME$/Downloads/ThoughtSworksAPp/src/main/java/Tools.java" timestamp="1565463066750">
         <mark key="[" line="6" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1569175568156">
+      <file name="$USER_HOME$/Downloads/ThoughtWorks-HTTP-Hunt-project-TW_GAME/ConferenceTrackManagementNew/README.md" timestamp="1569299364965">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1569299230057">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -149,14 +163,19 @@
       <file name="$USER_HOME$/IdeaProjects/AnimalDemo/test/com/assignment/model/AnimalTest.java" timestamp="1551372723706">
         <mark key="[" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/ThoughtWorks-HTTP-Hunt-project-TW_GAME/ConferenceTrackManagementNew/src/main/java/com/trackmanagement/scheduler/ConferenceSchedulerImpl.java" timestamp="1569213170020">
-        <mark key="[" line="16" column="40" />
+      <file name="$USER_HOME$/Downloads/ThoughtWorks-HTTP-Hunt-project-TW_GAME/ConferenceTrackManagementNew/src/main/java/com/trackmanagement/scheduler/ConferenceSchedulerImpl.java" timestamp="1569296868894">
+        <mark key="[" line="42" column="16" />
+        <mark key="]" line="42" column="16" />
+        <mark key="." line="42" column="16" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/AnimalDemo/src/com/assignment/model/ButterFly.java" timestamp="1551535584578">
         <mark key="[" line="2" column="22" />
       </file>
       <file name="$USER_HOME$/Downloads/ThoughtWorks-HTTP-Hunt-project-TW_GAME/ConferenceTrackManagement/src/main/java/com/trackmanagement/model/SessionType.java" timestamp="1568555910197">
         <mark key="[" line="2" column="25" />
+      </file>
+      <file name="$USER_HOME$/Downloads/ThoughtWorks-HTTP-Hunt-project-TW_GAME/ConferenceTrackManagementNew/src/test/resources/more-talk-output.txt" timestamp="1569298327195">
+        <mark key="[" line="44" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/taco-cloud/src/main/java/com/example/demo/DesginTacoController.java" timestamp="1552353138395">
         <mark key="[" line="15" column="33" />
@@ -170,8 +189,16 @@
       <file name="$USER_HOME$/IdeaProjects/SprinDemo/src/org/rahul/springlearning/Point.java" timestamp="1533926785034">
         <mark key="[" line="3" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1568912000903">
+      <file name="/fragment.java" timestamp="1569293345330">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Downloads/ThoughtWorks-HTTP-Hunt-project-TW_GAME/ConferenceTrackManagementNew/src/main/java/com/trackmanagement/helper/StringConstants.java" timestamp="1569293249374">
+        <mark key="[" line="3" column="4" />
+        <mark key="]" line="3" column="4" />
+        <mark key="." line="3" column="4" />
+      </file>
+      <file name="$USER_HOME$/Downloads/ThoughtWorks-HTTP-Hunt-project-TW_GAME/ConferenceTrackManagementNew/src/test/resources/talk-input-additionaltime.txt" timestamp="1569298350022">
+        <mark key="[" line="19" column="37" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/AnimalDemo/test/com/assignment/model/DuckTest.java" timestamp="1551536078019">
         <mark key="[" line="22" column="15" />
@@ -222,13 +249,15 @@
       <jump line="24" column="3" filename="$USER_HOME$/Downloads/ThoughtWorks-HTTP-Hunt-project-TW_GAME/ConferenceTrackManagement/src/main/java/com/trackmanagement/model/Track.java" />
       <jump line="79" column="12" filename="$USER_HOME$/Downloads/ThoughtWorks-HTTP-Hunt-project-TW_GAME/ConferenceTrackManagement/src/main/java/com/trackmanagement/scheduler/ConferenceScheduler.java" />
       <jump line="22" column="8" filename="$USER_HOME$/Downloads/ThoughtWorks-HTTP-Hunt-project-TW_GAME/ConferenceTrackManagement/src/test/java/com/trackmanagement/processor/InputReaderTest.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/Downloads/ThoughtWorks-HTTP-Hunt-project-TW_GAME/ConferenceTrackManagementNew/src/test/resources/more-talk-input.txt" />
+      <jump line="5" column="0" filename="$USER_HOME$/Downloads/ThoughtWorks-HTTP-Hunt-project-TW_GAME/ConferenceTrackManagementNew/src/test/resources/more-talk-input.txt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CnB1YmxpYyBjbGFzcyBDb25mZXJlbmNlU2NoZWR1bGVySW1wbCB7</text>
+        <text>, NoSchedulingException</text>
       </register>
       <register name="-" type="4">
-        <text>AFTERNOON,</text>
+        <text>, NoSchedulingException</text>
       </register>
       <register name="/" type="4">
         <text>bean</text>
@@ -236,33 +265,33 @@
       <register name="0" type="4">
         <text>greeting(@RequestParam(val</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CnB1YmxpYyBjbGFzcyBDb25mZXJlbmNlU2NoZWR1bGVySW1wbCB7</text>
+      <register name="1" type="2">
+        <text encoding="base64">UGxlbmFyeSBMdW5jaGVvbiA0MG1pbgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgYm9vbGVhbiBTUEFDRSA9ICIgIjsK</text>
+        <text encoding="base64">T3BlbmluZyBSZWNlcHRpb24gMTBtaW4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBJbnB1dFJlYWRlcihGaWxlIGZpbGVOYW1lKSB7Cg==</text>
+        <text encoding="base64">TW9ybmluZyBBSUVBIENvbW1pdHRlZSBNZWV0aW5ncyAxMjBtaW4K</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBpbnQgY29tcGFyZShPYmplY3QgbzEsIE9iamVjdCBvMikgewo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">CnB1YmxpYyBjbGFzcyBDb25mZXJlbmNlU2NoZWR1bGVySW1wbCB7</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgYm9vbGVhbiBTUEFDRSA9ICIgIjsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBJbnB1dFJlYWRlcihGaWxlIGZpbGVOYW1lKSB7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBpbnQgY29tcGFyZShPYmplY3QgbzEsIE9iamVjdCBvMikgewo=</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkxpc3QgY29udGFpbnMuLi4iKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc3dpbWluZ0FuaW1hbHMuc2l6ZSgpICsgIiBvZiB0aGVzZSBhbmltYWxzIGNhbiBzd2ltICIgKyBzd2ltaW5nQW5pbWFscyk7Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="9" type="4">
         <text>System.out.println(&quot;List contains...&quot;);
         System.out.println(singingAnimals.size() + &quot; of these animals can sing &quot; + singingAnimals);</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">IFN5c3RlbS5vdXQucHJpbnRsbigiTGlzdCBjb250YWlucy4uLiIpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbih3YWxraW5nQW5pbWFscy5zaXplKCkgKyAiIG9mIHRoZXNlIGFuaW1hbHMgY2FuIHdhbGsgIiArIHdhbGtpbmdBbmltYWxzKTs=</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">IEBTcHJpbmdCb290QXBwbGljYXRpb24KICAgIHB1YmxpYyBzdGF0aWMgY2xhc3MgQXBwbGljYXRpb24gewoKICAgICAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdbXSBhcmdzKSB7CiAgICAgICAgICAgIFNwcmluZ0FwcGxpY2F0aW9uLnJ1bihBcHBsaWNhdGlvbi5jbGFzcywgYXJncyk7CiAgICAgICAgfQogICAgfQ==</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">IHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyB0ZW1wbGF0ZSA9ICJIZWxsbywgJXMhIjsKICAgIHByaXZhdGUgZmluYWwgQXRvbWljTG9uZyBjb3VudGVyID0gbmV3IEF0b21pY0xvbmcoKTsKICAgIA==</text>
       </register>
     </registers>
     <search>
